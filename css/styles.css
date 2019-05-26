@@ -49,17 +49,17 @@ footer,
 aside {
 	background-color: #ffa500;
 	border-radius: 10px;
-	height: 100px;
+	height: 300px;
 }
 
 .left {
 	float: left;
-	width: 60%;
+	width: 20%;
 }
 
 .right {
 	float: right;
-	width: 35%;
+	width: 75%;
 }
 
 .row {
